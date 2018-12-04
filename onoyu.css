@@ -1,0 +1,21 @@
+.nav-bar {
+  height: 5vh;
+  background-color: gray;
+}
+
+.nav-bar a {
+  color: white;
+}
+
+.nav-bar a:hover {
+  opacity: 0.5;
+}
+
+ul #nav-list {
+  margin: none;
+}
+
+.user.active{
+  font-weight: 900;
+}
+
