@@ -3,12 +3,21 @@
   background-color: gray;
 }
 
+.nav-bar{
+  background-color: rgb(252,59,72);
+  color: white;
+}
+
 .nav-bar a {
   color: white;
 }
 
 .nav-bar a:hover {
   opacity: 0.5;
+}
+
+.content-name{
+  margin-right: 20px;
 }
 
 ul #nav-list {
@@ -18,4 +27,3 @@ ul #nav-list {
 .user.active{
   font-weight: 900;
 }
-
